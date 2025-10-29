@@ -1,0 +1,24 @@
+.env
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (vendor/ is deprecated, but some projects still use it)
+vendor/
+
+# Go workspace file
+go.work
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
